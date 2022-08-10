@@ -10,6 +10,13 @@ body {
   overflow-x: hidden;
 }
 
+h1 {
+  width: 100%;
+  text-align: center;
+  color: #2b2d42;
+  font-size: 40px;
+}
+
 /* grid */
 .wrapper {
   display: grid;
@@ -63,13 +70,6 @@ body {
 
 /* grid */
 
-h1 {
-  width: 100%;
-  text-align: center;
-  color: #2b2d42;
-  font-size: 40px;
-}
-
 .box {
   color: #fff;
   width: 100%;
@@ -77,12 +77,15 @@ h1 {
   box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
 }
 
-@media (max-width: 800px) {
-
+@media (max-width: 900px) {
   .wrapper {
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  h1 {
+    margin: 8vh 0;
   }
 
   .box {
