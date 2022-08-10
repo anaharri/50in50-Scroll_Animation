@@ -1,5 +1,5 @@
 # 50 PROJECTS IN 50 DAYS | HTML, CSS & JS
-Here is the third project of my 50in50 series, based on a Udemy course by Brad Traversy.   
+6th project of my 50in50 series, based on a Udemy course by Brad Traversy.   
   
   
 ### __The task is to build simple, aesthetic interfaces and widgets using only* HTML, CSS & JS.__  
@@ -7,6 +7,8 @@ Here is the third project of my 50in50 series, based on a Udemy course by Brad T
   
 For some of these, I just follow the tutorial exactly as it is, focused on sharpening those core concepts;  
 but on occasions, I take the tutorial as a starting point, and from there on I work on making it my own - playing with different styles, adding details, sometimes even using extra tools (e.g. LESS or SASS).
+
+For this one, I designed the layout with CSS Grid, which I had never used before. I also set a media query to achieve a responsive design. 
 
 Either way, **my goal is always to have fun creating beautiful things** and expanding my toolkit, one line of code at a time.
 
